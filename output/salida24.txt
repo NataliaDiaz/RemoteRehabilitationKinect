@@ -1,0 +1,46 @@
+0/4 Starting to detect users. Press Ctrl-C to exit.
+1/4 User 1 detected. Looking for pose...
+2/4 Detected pose Psi on user 1. Requesting calibration...
+3/4 Calibration started for user 1.
+4/4 User 1 calibrated successfully! Starting to track.
+************** DETECTED: Left Hip Abduction.  Accuracy: 0.48. Duration: 0.17. Angles
+   left knee angle  -  165.936331644
+   right knee angle  -  158.479510177
+   left groin angle  -  65.4037076052
+   left lateral hip angle  -  174.948551879
+************** DETECTED: Left Hip Abduction.  Accuracy: 0.76. Duration: 0.07. Angles
+   left knee angle  -  166.343528825
+   right knee angle  -  158.558778615
+   left groin angle  -  61.1382274778
+   left lateral hip angle  -  174.503227236
+************** DETECTED: Left Hip Abduction.  Accuracy: 0.52. Duration: 0.2. Angles
+   right knee angle  -  166.298124725
+   left groin angle  -  64.3227967686
+   left lateral hip angle  -  174.827547518
+************** DETECTED: Left Hip Abduction.  Accuracy: 0.52. Duration: 0.07. Angles
+   right knee angle  -  158.013158449
+   left groin angle  -  57.7963919469
+   left lateral hip angle  -  174.193436827
+************** DETECTED: Left Hip Abduction.  Accuracy: 0.76. Duration: 0.03. Angles
+   left knee angle  -  166.007458281
+   right knee angle  -  155.141692397
+   left groin angle  -  55.2812967143
+   left lateral hip angle  -  172.955410719
+************** DETECTED: Left Hip Abduction.  Accuracy: 0.48. Duration: 0.17. Angles
+   left knee angle  -  164.857670253
+   right knee angle  -  162.75861923
+   left groin angle  -  65.6871108486
+   left lateral hip angle  -  174.12565315
+************** DETECTED: Left Hip Abduction.  Accuracy: 0.48. Duration: 0.03. Angles
+   left knee angle  -  157.09699632
+   right knee angle  -  165.454774112
+   left groin angle  -  73.3896237293
+   left lateral hip angle  -  168.021734902
+************** DETECTED: Left Hip Abduction.  Accuracy: 0.52. Duration: 0.09. Angles
+   right knee angle  -  162.019747872
+   left groin angle  -  50.4442779449
+   left lateral hip angle  -  172.643334387
+************** DETECTED: Left Hip Abduction.  Accuracy: 0.52. Duration: 0.02. Angles
+   right knee angle  -  155.79419837
+   left groin angle  -  55.1431600236
+   left lateral hip angle  -  172.317272944

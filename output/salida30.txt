@@ -1,0 +1,1313 @@
+0/4 Starting to detect users. Press Ctrl-C to exit.
+1/4 User 1 detected. Looking for pose...
+2/4 Detected pose Psi on user 1. Requesting calibration...
+3/4 Calibration started for user 1.
+4/4 User 1 calibrated successfully! Starting to track.
+
+
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  159.020509244
+   right knee angle  -  175.795140518
+   left groin angle  -  26.8172050497
+   left lateral hip angle  -  166.365831443
+Left foot:   [ -175.3895874  -1015.95916748  2326.11572266]
+Right foot:  [  -16.91557503 -1088.58898926  2283.78759766] and difference 72.6298217773
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  161.405129972
+   right knee angle  -  176.013731141
+   left groin angle  -  27.3427137701
+   left lateral hip angle  -  165.787354911
+Left foot:   [ -176.76823425 -1025.30041504  2322.03833008]
+Right foot:  [  -13.72380066 -1089.75830078  2281.16015625] and difference 64.4578857422
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  163.283359439
+   right knee angle  -  172.710302957
+   left groin angle  -  25.82357402
+   left lateral hip angle  -  164.899935138
+Left foot:   [ -176.07524109 -1041.11853027  2319.35595703]
+Right foot:  [  -11.38454628 -1089.04211426  2285.58447266] and difference 47.9235839844
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  163.88622723
+   right knee angle  -  174.370478505
+   left groin angle  -  27.1022057887
+   left lateral hip angle  -  163.903511683
+Left foot:   [ -175.74981689 -1043.99560547  2317.53979492]
+Right foot:  [   -9.61614609 -1091.1138916   2287.64038086] and difference 47.1182861328
+Accuracy hip_abduction_left  0.72 with key angles 
+   left knee angle  -  165.285816644
+   right knee angle  -  170.948087011
+   left groin angle  -  26.5726965727
+   left lateral hip angle  -  163.223831475
+Left foot:   [ -175.39961243 -1051.48779297  2314.6340332 ]
+Right foot:  [   -8.5934     -1093.95263672  2290.19726562] and difference 42.46484375
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  164.766655904
+   right knee angle  -  173.063345974
+   left groin angle  -  26.9054133829
+   left lateral hip angle  -  162.900005142
+Left foot:   [ -169.99978638 -1056.13696289  2313.3828125 ]
+Right foot:  [   -6.73543262 -1096.46704102  2285.99316406] and difference 40.330078125
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  164.947621108
+   right knee angle  -  171.802233811
+   left groin angle  -  26.1462342853
+   left lateral hip angle  -  162.893698241
+Left foot:   [ -169.30975342 -1061.73291016  2311.60229492]
+Right foot:  [  -12.92421818 -1097.57226562  2285.73022461] and difference 35.8393554688
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  165.370542585
+   right knee angle  -  172.88260667
+   left groin angle  -  24.8027021959
+   left lateral hip angle  -  163.116727597
+Left foot:   [ -169.92311096 -1072.84887695  2313.27661133]
+Right foot:  [  -20.89068604 -1104.7175293   2288.82763672] and difference 31.8686523438
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  167.469290698
+   right knee angle  -  174.081416077
+   left groin angle  -  24.2387874123
+   left lateral hip angle  -  163.204211036
+Left foot:   [ -180.44230652 -1079.32910156  2317.89477539]
+Right foot:  [  -26.226017   -1108.47265625  2290.15673828] and difference 29.1435546875
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  169.095042339
+   right knee angle  -  174.442845246
+   left groin angle  -  24.073544071
+   left lateral hip angle  -  163.245290671
+Left foot:   [ -182.33216858 -1087.06652832  2308.80371094]
+Right foot:  [  -28.11215782 -1109.62573242  2292.22558594] and difference 22.5592041016
+************** DETECTED: Standing.  Accuracy:  1.0
+
+
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  174.646174333
+   left groin angle  -  23.9428346464
+   left lateral hip angle  -  163.36240422
+Left foot:   [ -180.81414795 -1114.13867188  2305.10351562]
+Right foot:  [  -27.84744644 -1113.14941406  2293.04052734] and difference 0.9892578125
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  171.163961293
+   right knee angle  -  173.849332993
+   left groin angle  -  23.8868148685
+   left lateral hip angle  -  162.641327885
+Left foot:   [ -182.54824829 -1102.72766113  2301.57397461]
+Right foot:  [  -26.24022675 -1118.07226562  2296.60253906] and difference 15.3446044922
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  169.831479298
+   right knee angle  -  173.457595051
+   left groin angle  -  24.8921948484
+   left lateral hip angle  -  163.230414659
+Left foot:   [ -185.58526611 -1106.26855469  2304.36694336]
+Right foot:  [  -25.23356438 -1124.06262207  2298.55419922] and difference 17.7940673828
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  169.179937992
+   left groin angle  -  25.0218103487
+   left lateral hip angle  -  163.142367055
+Left foot:   [ -190.56645203 -1114.51696777  2309.73193359]
+Right foot:  [  -23.28631973 -1117.91650391  2302.94116211] and difference 3.39953613281
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  168.288428867
+   right knee angle  -  173.209090115
+   left groin angle  -  25.0877571797
+   left lateral hip angle  -  162.388236095
+Left foot:   [ -192.23643494 -1117.34936523  2311.85620117]
+Right foot:  [  -23.4182663  -1133.2565918   2303.96411133] and difference 15.9072265625
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  166.768991824
+   left groin angle  -  26.1569598414
+   left lateral hip angle  -  161.445440933
+Left foot:   [ -194.70367432 -1121.50341797  2312.57641602]
+Right foot:  [  -23.67105865 -1120.37976074  2304.42260742] and difference 1.12365722656
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  166.049557016
+   right knee angle  -  173.159930004
+   left groin angle  -  26.4861049257
+   left lateral hip angle  -  161.526609955
+Left foot:   [ -195.82574463 -1122.92480469  2313.24584961]
+Right foot:  [  -24.21510887 -1140.12988281  2305.69848633] and difference 17.205078125
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  166.10457152
+   right knee angle  -  173.68712968
+   left groin angle  -  26.450602872
+   left lateral hip angle  -  162.660148297
+Left foot:   [ -192.87301636 -1125.61206055  2314.83666992]
+Right foot:  [  -23.49546814 -1144.75305176  2307.64282227] and difference 19.1409912109
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  165.944206221
+   left groin angle  -  26.1113197264
+   left lateral hip angle  -  163.109086665
+Left foot:   [ -189.38269043 -1121.21704102  2314.16625977]
+Right foot:  [  -26.30630493 -1130.71179199  2295.37695312] and difference 9.49475097656
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  166.590583797
+   right knee angle  -  175.751683358
+   left groin angle  -  25.8826650259
+   left lateral hip angle  -  164.496178389
+Left foot:   [ -188.86354065 -1121.48144531  2313.00585938]
+Right foot:  [  -26.9904747  -1144.23571777  2295.41113281] and difference 22.7542724609
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  166.603034146
+   right knee angle  -  176.107613045
+   left groin angle  -  25.706074417
+   left lateral hip angle  -  164.562928172
+Left foot:   [ -187.91995239 -1122.74560547  2313.06054688]
+Right foot:  [  -29.49071503 -1141.90405273  2295.12084961] and difference 19.1584472656
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  165.682030547
+   right knee angle  -  176.321476823
+   left groin angle  -  25.6537449122
+   left lateral hip angle  -  166.846411285
+Left foot:   [ -186.49980164 -1124.83435059  2313.31835938]
+Right foot:  [  -33.57027054 -1140.62573242  2294.50756836] and difference 15.7913818359
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  165.440033131
+   right knee angle  -  176.212081039
+   left groin angle  -  24.9892884852
+   left lateral hip angle  -  167.834766303
+Left foot:   [ -185.05259705 -1131.79492188  2313.28808594]
+Right foot:  [  -39.17168045 -1134.82104492  2292.81201172] and difference 3.02612304688
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  166.022150053
+   left groin angle  -  24.9613568748
+   left lateral hip angle  -  167.851634802
+Left foot:   [ -184.08331299 -1131.74194336  2315.        ]
+Right foot:  [  -46.60354614 -1127.64575195  2290.3984375 ] and difference 4.09619140625
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  166.571584151
+   left groin angle  -  26.9150808348
+   left lateral hip angle  -  168.630867918
+Left foot:   [ -188.41348267 -1130.07189941  2316.31835938]
+Right foot:  [  -45.76773834 -1130.12341309  2278.87402344] and difference 0.051513671875
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  166.614294168
+   right knee angle  -  174.77776247
+   left groin angle  -  28.4505919006
+   left lateral hip angle  -  169.765776558
+Left foot:   [ -195.89950562 -1124.79370117  2317.30004883]
+Right foot:  [  -48.71247101 -1142.80651855  2278.95263672] and difference 18.0128173828
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  166.805757296
+   left groin angle  -  27.8816515058
+   left lateral hip angle  -  170.160551846
+Left foot:   [ -203.33950806 -1126.8347168   2315.52954102]
+Right foot:  [  -50.16188431 -1129.62109375  2272.58276367] and difference 2.78637695312
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  166.782991593
+   right knee angle  -  174.27212842
+   left groin angle  -  27.3583862762
+   left lateral hip angle  -  170.351722867
+Left foot:   [ -204.58700562 -1130.93933105  2311.58300781]
+Right foot:  [  -45.51852798 -1149.29833984  2278.49365234] and difference 18.3590087891
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  164.854082272
+   right knee angle  -  173.965708511
+   left groin angle  -  26.2658149978
+   left lateral hip angle  -  171.77747679
+Left foot:   [ -207.71083069 -1133.26977539  2309.35205078]
+Right foot:  [  -45.217659   -1146.71911621  2279.83935547] and difference 13.4493408203
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  167.337299507
+   right knee angle  -  173.586716229
+   left groin angle  -  27.1714007086
+   left lateral hip angle  -  168.828699758
+Left foot:   [ -210.12557983 -1135.2097168   2309.34228516]
+Right foot:  [  -45.41872025 -1145.2076416   2278.39379883] and difference 9.99792480469
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  167.102231071
+   left groin angle  -  25.9985000687
+   left lateral hip angle  -  170.409139397
+Left foot:   [ -212.32710266 -1136.78503418  2309.91381836]
+Right foot:  [  -50.49305344 -1135.24389648  2270.78710938] and difference 1.54113769531
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  168.687543148
+   left groin angle  -  24.320228194
+   left lateral hip angle  -  172.415542882
+Left foot:   [ -212.14343262 -1137.53552246  2310.31201172]
+Right foot:  [  -50.42689514 -1138.58630371  2270.61010742] and difference 1.05078125
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  169.662456144
+   right knee angle  -  174.147394692
+   left groin angle  -  24.6695535591
+   left lateral hip angle  -  172.024802602
+Left foot:   [ -209.9127655  -1138.01806641  2312.32763672]
+Right foot:  [  -53.18561554 -1151.4387207   2276.94384766] and difference 13.4206542969
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  169.875823691
+   right knee angle  -  173.278471652
+   left groin angle  -  23.9786142528
+   left lateral hip angle  -  172.629135459
+Left foot:   [ -203.44381714 -1133.97216797  2310.91455078]
+Right foot:  [  -54.14539337 -1159.58605957  2280.39599609] and difference 25.6138916016
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  168.970147491
+   left groin angle  -  23.2503232756
+   left lateral hip angle  -  173.132131658
+Left foot:   [ -199.48202515 -1141.35144043  2311.30395508]
+Right foot:  [  -54.46365356 -1144.2980957   2279.97607422] and difference 2.94665527344
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  171.133616601
+   left groin angle  -  23.7124807034
+   left lateral hip angle  -  173.541964904
+Left foot:   [ -199.95967102 -1143.97851562  2307.14379883]
+Right foot:  [  -63.43189621 -1157.70336914  2287.07763672] and difference 13.7248535156
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  168.671527486
+   right knee angle  -  171.5443582
+   left groin angle  -  24.3773372935
+   left lateral hip angle  -  172.81900116
+Left foot:   [ -199.92456055 -1154.2532959   2293.33056641]
+Right foot:  [  -57.16418839 -1167.02368164  2277.56225586] and difference 12.7703857422
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  173.435952061
+   left groin angle  -  24.9359654724
+   left lateral hip angle  -  172.448402442
+Left foot:   [ -206.34614563 -1162.74768066  2297.25341797]
+Right foot:  [  -56.28273773 -1166.00952148  2282.26586914] and difference 3.26184082031
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  173.495560562
+   left groin angle  -  24.9956525018
+   left lateral hip angle  -  173.155727227
+Left foot:   [ -208.68312073 -1163.15307617  2298.11816406]
+Right foot:  [  -56.5001297  -1165.0802002   2284.69995117] and difference 1.92712402344
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  167.528545022
+   right knee angle  -  172.881962455
+   left groin angle  -  25.8182029661
+   left lateral hip angle  -  172.077649087
+Left foot:   [ -209.79042053 -1152.5279541   2301.81884766]
+Right foot:  [  -58.58210754 -1165.67590332  2285.04003906] and difference 13.1479492188
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  165.371666454
+   left groin angle  -  26.2407523422
+   left lateral hip angle  -  172.354255959
+Left foot:   [ -205.27110291 -1149.49731445  2314.07519531]
+Right foot:  [  -60.71852875 -1160.60400391  2278.03759766] and difference 11.1066894531
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  164.275484422
+   left groin angle  -  27.139071694
+   left lateral hip angle  -  172.611462431
+Left foot:   [ -202.64413452 -1143.63916016  2319.4921875 ]
+Right foot:  [  -62.73758698 -1162.3104248   2277.41967773] and difference 18.6712646484
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  163.990168835
+   left groin angle  -  27.4604048196
+   left lateral hip angle  -  172.377349373
+Left foot:   [ -201.41313171 -1144.08728027  2322.8125    ]
+Right foot:  [  -69.62866211 -1163.46826172  2268.94262695] and difference 19.3809814453
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  163.689308636
+   left groin angle  -  27.2078809014
+   left lateral hip angle  -  173.484455792
+Left foot:   [ -201.33062744 -1144.32788086  2326.3996582 ]
+Right foot:  [  -73.37928009 -1164.31884766  2265.29980469] and difference 19.9909667969
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  164.480136114
+   left groin angle  -  27.0216385213
+   left lateral hip angle  -  173.688296692
+Left foot:   [ -205.40115356 -1145.54956055  2323.02001953]
+Right foot:  [  -78.86048889 -1164.98901367  2262.26611328] and difference 19.439453125
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  164.908333762
+   left groin angle  -  27.1890501493
+   left lateral hip angle  -  173.481024458
+Left foot:   [ -207.21588135 -1146.96386719  2320.94799805]
+Right foot:  [  -80.60144043 -1168.14208984  2260.04541016] and difference 21.1782226562
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  164.277329372
+   left groin angle  -  25.8819875989
+   left lateral hip angle  -  173.271363113
+Left foot:   [ -207.89382935 -1149.6505127   2320.93115234]
+Right foot:  [  -77.66666412 -1169.98059082  2264.14379883] and difference 20.330078125
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  166.020662978
+   left groin angle  -  23.6768656927
+   left lateral hip angle  -  173.79021475
+Left foot:   [ -208.37037659 -1159.5559082   2308.36791992]
+Right foot:  [  -80.09979248 -1175.42285156  2276.23608398] and difference 15.8669433594
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  165.476622664
+   right knee angle  -  166.600319944
+   left groin angle  -  24.3839008946
+   left lateral hip angle  -  173.513232028
+Left foot:   [ -209.10389709 -1161.13781738  2307.38110352]
+Right foot:  [  -87.46208191 -1175.22045898  2286.61816406] and difference 14.0826416016
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  165.227145425
+   left groin angle  -  24.6674860165
+   left lateral hip angle  -  173.701092092
+Left foot:   [ -209.87745667 -1164.44421387  2307.46044922]
+Right foot:  [  -82.52448273 -1172.81506348  2293.4362793 ] and difference 8.37084960938
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  164.77491163
+   left groin angle  -  24.6011946464
+   left lateral hip angle  -  174.014431375
+Left foot:   [ -214.23733521 -1167.67382812  2303.14599609]
+Right foot:  [  -77.51402283 -1171.40063477  2296.42675781] and difference 3.72680664062
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  163.545086581
+   left groin angle  -  24.6129162375
+   left lateral hip angle  -  174.223995708
+Left foot:   [ -215.22531128 -1169.12329102  2300.77416992]
+Right foot:  [  -72.42173004 -1169.7734375   2300.8112793 ] and difference 0.650146484375
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  163.291673879
+   left groin angle  -  24.9693879479
+   left lateral hip angle  -  174.308388636
+Left foot:   [ -218.40155029 -1170.5234375   2295.94628906]
+Right foot:  [  -72.11559296 -1163.91699219  2297.23535156] and difference 6.6064453125
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  160.522955906
+   left groin angle  -  27.5986028294
+   left lateral hip angle  -  174.880596589
+Left foot:   [ -224.21737671 -1168.46679688  2293.71337891]
+Right foot:  [  -63.44635391 -1162.13989258  2298.49584961] and difference 6.32690429688
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  163.41592478
+   right knee angle  -  159.005489373
+   left groin angle  -  30.654330697
+   left lateral hip angle  -  174.838994782
+Left foot:   [ -229.47724915 -1167.25158691  2292.27929688]
+Right foot:  [  -58.55069351 -1163.53967285  2300.3190918 ] and difference 3.7119140625
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  155.56599908
+   left groin angle  -  34.3792036826
+   left lateral hip angle  -  174.67911601
+Left foot:   [ -233.05825806 -1162.5625      2291.20458984]
+Right foot:  [  -42.63505173 -1159.39660645  2306.08837891] and difference 3.16589355469
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  165.386511573
+   right knee angle  -  151.450375607
+   left groin angle  -  36.9964937907
+   left lateral hip angle  -  174.776235804
+Left foot:   [ -234.88009644 -1164.34472656  2292.30102539]
+Right foot:  [  -34.04509354 -1151.11865234  2309.56640625] and difference 13.2260742188
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  164.786814432
+   right knee angle  -  148.071126607
+   left groin angle  -  40.2804390134
+   left lateral hip angle  -  174.899896063
+Left foot:   [ -229.78329468 -1162.3527832   2295.52905273]
+Right foot:  [  -15.21492767 -1138.3840332   2301.81152344] and difference 23.96875
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  145.522790027
+   left groin angle  -  43.9366714303
+   left lateral hip angle  -  174.325170863
+Left foot:   [ -231.07962036 -1158.16589355  2296.1965332 ]
+Right foot:  [   -3.55170059 -1126.53198242  2295.57519531] and difference 31.6339111328
+Accuracy hip_abduction_left  0.28 with key angles 
+   right knee angle  -  145.040214947
+   left groin angle  -  46.4504162912
+   left lateral hip angle  -  174.404066534
+Left foot:   [ -232.66558838 -1154.20678711  2295.51416016]
+Right foot:  [   23.96433449 -1111.390625    2292.85131836] and difference 42.8161621094
+Accuracy hip_abduction_left  0.76 with key angles 
+   left knee angle  -  166.598356638
+   right knee angle  -  155.945460901
+   left groin angle  -  49.4142427906
+   left lateral hip angle  -  173.850886984
+Left foot:   [ -237.56504822 -1160.79785156  2297.11303711]
+Right foot:  [  287.29785156  -973.60040283  2313.15966797] and difference 187.19744873
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  154.616710099
+   left groin angle  -  51.5645128278
+   left lateral hip angle  -  173.623456221
+Left foot:   [ -250.48925781 -1155.4206543   2291.57592773]
+Right foot:  [  306.34594727  -951.81567383  2318.46484375] and difference 203.604980469
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  156.793055219
+   left groin angle  -  52.8636696279
+   left lateral hip angle  -  172.620551683
+Left foot:   [ -259.35821533 -1158.82543945  2287.49072266]
+Right foot:  [  339.94665527  -938.77416992  2296.86621094] and difference 220.051269531
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  155.657717697
+   left groin angle  -  58.4919014039
+   left lateral hip angle  -  171.458610102
+Left foot:   [ -262.45901489 -1163.09301758  2280.99414062]
+Right foot:  [  360.19055176  -935.79302979  2331.30664062] and difference 227.299987793
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  154.487193335
+   left groin angle  -  59.8784801885
+   left lateral hip angle  -  171.4382198
+Left foot:   [ -256.04922485 -1161.72155762  2281.48876953]
+Right foot:  [  341.56286621  -908.9822998   2332.85107422] and difference 252.739257812
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  156.689695491
+   left groin angle  -  61.2840858704
+   left lateral hip angle  -  169.854504918
+Left foot:   [ -253.16877747 -1162.51818848  2281.203125  ]
+Right foot:  [  346.67547607  -888.36169434  2315.90795898] and difference 274.156494141
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  158.000395805
+   left groin angle  -  61.9133702173
+   left lateral hip angle  -  169.973767596
+Left foot:   [ -253.27705383 -1163.77416992  2281.27246094]
+Right foot:  [  353.73217773  -880.22753906  2312.44628906] and difference 283.546630859
+Accuracy hip_abduction_left  0.76 with key angles 
+   left knee angle  -  168.191026742
+   right knee angle  -  158.549535916
+   left groin angle  -  62.6616216807
+   left lateral hip angle  -  169.743186164
+Left foot:   [ -250.84481812 -1160.20751953  2282.46362305]
+Right foot:  [  359.3069458   -873.25585938  2306.67553711] and difference 286.951660156
+-------------------------------------------------------------------------------------------------------------------------------BINGO LEFT!!!
+************** DETECTED: Left Hip Abduction.  Accuracy:  0.76
+
+
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  159.161393801
+   left groin angle  -  63.8635623125
+   left lateral hip angle  -  170.81569051
+Left foot:   [ -250.71307373 -1162.67468262  2283.28491211]
+Right foot:  [  369.46313477  -872.9395752   2307.6652832 ] and difference 289.735107422
+Accuracy hip_abduction_left  0.76 with key angles 
+   left knee angle  -  168.195249763
+   right knee angle  -  158.836319699
+   left groin angle  -  63.731199801
+   left lateral hip angle  -  171.945575069
+Left foot:   [ -249.12213135 -1159.71899414  2287.38574219]
+Right foot:  [  370.08258057  -873.88439941  2306.44775391] and difference 285.834594727
+-------------------------------------------------------------------------------------------------------------------------------BINGO LEFT!!!
+Accuracy hip_abduction_left  0.76 with key angles 
+   left knee angle  -  168.96903587
+   right knee angle  -  160.925258801
+   left groin angle  -  62.8826409844
+   left lateral hip angle  -  172.54102534
+Left foot:   [ -247.12950134 -1159.18334961  2291.65136719]
+Right foot:  [  398.48748779  -877.012146    2296.90771484] and difference 282.171203613
+-------------------------------------------------------------------------------------------------------------------------------BINGO LEFT!!!
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  160.720523105
+   left groin angle  -  62.8975798286
+   left lateral hip angle  -  172.352112924
+Left foot:   [ -245.87785339 -1159.24975586  2294.59912109]
+Right foot:  [  392.70544434  -883.92645264  2294.46655273] and difference 275.323303223
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  160.328405054
+   left groin angle  -  62.9320678381
+   left lateral hip angle  -  172.189291514
+Left foot:   [ -244.65525818 -1159.41894531  2295.23608398]
+Right foot:  [  384.67193604  -884.81500244  2296.61499023] and difference 274.603942871
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  159.639411411
+   left groin angle  -  62.6386007951
+   left lateral hip angle  -  172.741907601
+Left foot:   [ -242.81095886 -1160.33251953  2297.28417969]
+Right foot:  [  356.02612305  -897.65649414  2295.86254883] and difference 262.676025391
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  160.275905974
+   left groin angle  -  61.6542874656
+   left lateral hip angle  -  172.810651586
+Left foot:   [ -241.40766907 -1159.96411133  2298.53564453]
+Right foot:  [  361.79864502  -912.61743164  2314.83325195] and difference 247.346679688
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  159.530599336
+   left groin angle  -  60.9956502631
+   left lateral hip angle  -  172.64374424
+Left foot:   [ -239.55931091 -1158.82531738  2297.49755859]
+Right foot:  [  349.26733398  -910.48162842  2313.62426758] and difference 248.343688965
+Accuracy hip_abduction_left  0.76 with key angles 
+   left knee angle  -  169.395220979
+   right knee angle  -  155.876140395
+   left groin angle  -  58.1837159787
+   left lateral hip angle  -  172.365637561
+Left foot:   [ -242.18003845 -1161.07006836  2299.44384766]
+Right foot:  [  325.71411133  -919.57641602  2329.29394531] and difference 241.493652344
+-------------------------------------------------------------------------------------------------------------------------------BINGO LEFT!!!
+Accuracy hip_abduction_left  0.76 with key angles 
+   left knee angle  -  168.860741202
+   right knee angle  -  155.557846028
+   left groin angle  -  56.8724972654
+   left lateral hip angle  -  171.399314237
+Left foot:   [ -247.45951843 -1160.26855469  2302.45336914]
+Right foot:  [  315.43310547  -925.63574219  2329.44702148] and difference 234.6328125
+-------------------------------------------------------------------------------------------------------------------------------BINGO LEFT!!!
+Accuracy hip_abduction_left  0.76 with key angles 
+   left knee angle  -  168.542294344
+   right knee angle  -  156.524670626
+   left groin angle  -  54.255582989
+   left lateral hip angle  -  170.505451083
+Left foot:   [ -248.92115784 -1159.43823242  2305.36181641]
+Right foot:  [  282.99615479  -944.6619873   2312.18164062] and difference 214.776245117
+-------------------------------------------------------------------------------------------------------------------------------BINGO LEFT!!!
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  155.413178905
+   left groin angle  -  51.8249998188
+   left lateral hip angle  -  170.962685656
+Left foot:   [ -247.63284302 -1159.56323242  2308.5       ]
+Right foot:  [  196.51274109 -1018.36456299  2292.2097168 ] and difference 141.198669434
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  158.318834348
+   left groin angle  -  47.3072239036
+   left lateral hip angle  -  171.037881933
+Left foot:   [ -246.06704712 -1160.48986816  2309.53173828]
+Right foot:  [  190.92340088 -1023.76538086  2296.34399414] and difference 136.724487305
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  159.315095226
+   left groin angle  -  46.3473953406
+   left lateral hip angle  -  171.76379502
+Left foot:   [ -237.07974243 -1158.83520508  2305.98388672]
+Right foot:  [  184.78990173 -1029.12304688  2301.44458008] and difference 129.712158203
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  167.171613456
+   right knee angle  -  161.048002629
+   left groin angle  -  44.2866086698
+   left lateral hip angle  -  172.352247378
+Left foot:   [ -234.92050171 -1159.7121582   2304.04418945]
+Right foot:  [  163.39678955 -1040.15014648  2296.3527832 ] and difference 119.562011719
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  166.318866796
+   right knee angle  -  162.608958346
+   left groin angle  -  41.2714019964
+   left lateral hip angle  -  172.774008818
+Left foot:   [ -229.76983643 -1160.52026367  2303.05273438]
+Right foot:  [  145.60549927 -1048.72241211  2297.50537109] and difference 111.797851562
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  166.465628329
+   right knee angle  -  163.508791876
+   left groin angle  -  39.6879769729
+   left lateral hip angle  -  172.911869217
+Left foot:   [ -228.54118347 -1157.70581055  2304.38037109]
+Right foot:  [  130.45596313 -1058.34765625  2294.42211914] and difference 99.3581542969
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  164.140973978
+   left groin angle  -  35.3767133954
+   left lateral hip angle  -  172.973855042
+Left foot:   [ -229.16540527 -1157.61938477  2304.98022461]
+Right foot:  [  118.61395264 -1068.1036377   2292.98168945] and difference 89.5157470703
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  162.593576729
+   left groin angle  -  32.5010697945
+   left lateral hip angle  -  172.057160405
+Left foot:   [ -227.02011108 -1162.74731445  2300.80297852]
+Right foot:  [   87.44566345 -1093.22949219  2295.29418945] and difference 69.5178222656
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  167.151018358
+   left groin angle  -  22.9858083673
+   left lateral hip angle  -  172.944740198
+Left foot:   [ -214.83483887 -1187.48083496  2310.33496094]
+Right foot:  [  -50.52451706 -1182.17834473  2291.37255859] and difference 5.30249023438
+Accuracy hip_abduction_left  0.24 with key angles 
+   left knee angle  -  168.329949473
+   left groin angle  -  23.027236327
+   left lateral hip angle  -  172.220086609
+Left foot:   [ -216.42657471 -1212.50219727  2321.41259766]
+Right foot:  [  -55.49014282 -1220.52978516  2279.93408203] and difference 8.02758789062
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  161.810550961
+   left groin angle  -  29.9385141615
+   left lateral hip angle  -  171.795091064
+Left foot:   [ -240.29324341 -1218.01269531  2315.49926758]
+Right foot:  [  -20.9660244  -1216.33410645  2295.04052734] and difference 1.67858886719
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  156.396704403
+   left groin angle  -  34.876319652
+   left lateral hip angle  -  172.689288176
+Left foot:   [ -235.62017822 -1217.578125    2311.74707031]
+Right foot:  [   -9.48257446 -1207.8067627   2299.84472656] and difference 9.77136230469
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  165.358221368
+   right knee angle  -  155.054750361
+   left groin angle  -  36.4525783795
+   left lateral hip angle  -  172.925303217
+Left foot:   [ -240.25782776 -1201.24169922  2313.49707031]
+Right foot:  [  1.71732521e+00  -1.20347791e+03   2.30668188e+03] and difference 2.23620605469
+************** DETECTED: Standing.  Accuracy:  1.0
+
+
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  155.445626281
+   left groin angle  -  36.8256786468
+   left lateral hip angle  -  172.687716467
+Left foot:   [ -244.29432678 -1202.6619873   2314.18652344]
+Right foot:  [   17.87585258 -1195.0234375   2309.28613281] and difference 7.63854980469
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  155.54733937
+   left groin angle  -  38.1963805918
+   left lateral hip angle  -  172.477633997
+Left foot:   [ -248.32998657 -1196.45251465  2311.99072266]
+Right foot:  [   30.34818268 -1189.28063965  2313.63232422] and difference 7.171875
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  154.307073736
+   left groin angle  -  42.8168862826
+   left lateral hip angle  -  170.297898906
+Left foot:   [ -248.14103699 -1200.32531738  2305.65332031]
+Right foot:  [   52.69200134 -1166.66357422  2325.75952148] and difference 33.6617431641
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  151.546015728
+   left groin angle  -  46.5628828075
+   left lateral hip angle  -  169.798737044
+Left foot:   [ -247.96087646 -1197.12158203  2307.51538086]
+Right foot:  [   75.78729248 -1147.1550293   2320.36938477] and difference 49.9665527344
+Accuracy hip_abduction_left  0.28 with key angles 
+   right knee angle  -  148.877595213
+   left groin angle  -  50.4420428309
+   left lateral hip angle  -  170.095075919
+Left foot:   [ -246.14984131 -1193.96459961  2306.60473633]
+Right foot:  [  107.0400238  -1127.6619873   2321.07739258] and difference 66.3026123047
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  163.187320808
+   left groin angle  -  51.8336974835
+   left lateral hip angle  -  171.184331527
+Left foot:   [ -242.31562805 -1195.97998047  2316.01757812]
+Right foot:  [  286.34405518  -959.16827393  2285.24365234] and difference 236.811706543
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  162.820372075
+   left groin angle  -  52.9791753263
+   left lateral hip angle  -  171.235411602
+Left foot:   [ -244.8984375  -1184.21374512  2317.57519531]
+Right foot:  [  297.94335938  -965.13549805  2277.02075195] and difference 219.07824707
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  159.703931432
+   left groin angle  -  53.823290974
+   left lateral hip angle  -  171.206674773
+Left foot:   [ -240.73730469 -1190.4239502   2312.78515625]
+Right foot:  [  339.45245361  -916.0324707   2300.22070312] and difference 274.391479492
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  158.685650459
+   left groin angle  -  58.0924796233
+   left lateral hip angle  -  169.933909608
+Left foot:   [ -238.16943359 -1187.92529297  2313.65185547]
+Right foot:  [  361.91400146  -917.44390869  2317.24047852] and difference 270.481384277
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  155.571033142
+   left groin angle  -  57.4386569014
+   left lateral hip angle  -  171.92124379
+Left foot:   [ -236.20870972 -1188.17871094  2315.09936523]
+Right foot:  [  379.65057373  -908.70428467  2344.89941406] and difference 279.47442627
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  156.373398301
+   left groin angle  -  58.6713326599
+   left lateral hip angle  -  173.74539166
+Left foot:   [ -236.18321228 -1186.23266602  2316.5637207 ]
+Right foot:  [  385.90594482  -910.19885254  2343.13232422] and difference 276.033813477
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  159.342711535
+   left groin angle  -  60.7983845345
+   left lateral hip angle  -  173.452725134
+Left foot:   [ -239.64579773 -1188.75854492  2319.13867188]
+Right foot:  [  416.32818604  -883.5645752   2325.97290039] and difference 305.193969727
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  160.09709873
+   left groin angle  -  63.7090191602
+   left lateral hip angle  -  171.28516925
+Left foot:   [ -240.87307739 -1187.0378418   2315.70288086]
+Right foot:  [  408.21203613  -878.83337402  2326.59619141] and difference 308.204467773
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  160.629586633
+   left groin angle  -  63.7701888725
+   left lateral hip angle  -  171.829813051
+Left foot:   [ -239.8291626  -1187.13024902  2315.40356445]
+Right foot:  [  408.72662354  -878.31378174  2327.85913086] and difference 308.816467285
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  160.703470722
+   left groin angle  -  64.4436514566
+   left lateral hip angle  -  172.187738962
+Left foot:   [ -240.51751709 -1184.96691895  2316.45166016]
+Right foot:  [  402.53683472  -872.91009521  2325.33691406] and difference 312.05682373
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  160.092769296
+   left groin angle  -  65.0121340296
+   left lateral hip angle  -  172.171619712
+Left foot:   [ -240.9357605  -1185.00634766  2315.83422852]
+Right foot:  [  396.96237183  -869.08581543  2326.05249023] and difference 315.920532227
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  165.257821841
+   left groin angle  -  65.473338285
+   left lateral hip angle  -  172.229842691
+Left foot:   [ -239.61070251 -1186.98547363  2314.66137695]
+Right foot:  [  419.56451416  -835.04748535  2293.55151367] and difference 351.937988281
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  162.877498723
+   left groin angle  -  65.8831648221
+   left lateral hip angle  -  171.760692141
+Left foot:   [ -238.27653503 -1189.74780273  2312.38647461]
+Right foot:  [  408.42953491  -845.36663818  2306.4777832 ] and difference 344.381164551
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  163.535412533
+   left groin angle  -  65.7140944584
+   left lateral hip angle  -  171.778265598
+Left foot:   [ -238.36984253 -1190.45495605  2311.9074707 ]
+Right foot:  [  415.1960144   -845.71264648  2303.77514648] and difference 344.74230957
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  162.345153663
+   left groin angle  -  64.1406046505
+   left lateral hip angle  -  173.459654048
+Left foot:   [ -237.60470581 -1192.61523438  2312.08813477]
+Right foot:  [  409.10913086  -850.71118164  2310.57617188] and difference 341.904052734
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  161.685649812
+   left groin angle  -  64.3747798221
+   left lateral hip angle  -  173.053117268
+Left foot:   [ -233.67715454 -1191.38745117  2314.13330078]
+Right foot:  [  404.35983276  -853.31799316  2310.96655273] and difference 338.069458008
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  160.051689359
+   left groin angle  -  62.3886256307
+   left lateral hip angle  -  174.47281953
+Left foot:   [ -234.22360229 -1185.56420898  2318.69726562]
+Right foot:  [  393.40515137  -861.28308105  2315.17407227] and difference 324.28112793
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  159.268979856
+   left groin angle  -  63.0017664097
+   left lateral hip angle  -  173.379324453
+Left foot:   [ -233.28630066 -1188.67407227  2316.36401367]
+Right foot:  [  377.56781006  -885.43493652  2308.86132812] and difference 303.239135742
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  158.701427674
+   left groin angle  -  62.6097264846
+   left lateral hip angle  -  172.54900512
+Left foot:   [ -230.56829834 -1187.29907227  2313.56298828]
+Right foot:  [  371.83935547  -892.8526001   2316.28759766] and difference 294.446472168
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  158.638909279
+   left groin angle  -  60.9619447787
+   left lateral hip angle  -  171.885578022
+Left foot:   [ -229.17169189 -1191.21276855  2314.16577148]
+Right foot:  [  370.07000732  -918.29467773  2322.27124023] and difference 272.91809082
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  159.776423548
+   left groin angle  -  58.6759648086
+   left lateral hip angle  -  172.545143969
+Left foot:   [ -228.22265625 -1186.69091797  2318.38354492]
+Right foot:  [  370.93920898  -938.56738281  2320.34619141] and difference 248.123535156
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  162.744471441
+   left groin angle  -  54.2442975476
+   left lateral hip angle  -  172.224928672
+Left foot:   [ -228.78515625 -1190.81433105  2318.34423828]
+Right foot:  [  285.43569946  -990.37854004  2272.25830078] and difference 200.435791016
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  161.275656683
+   left groin angle  -  51.4541075981
+   left lateral hip angle  -  172.372532028
+Left foot:   [ -228.97346497 -1190.00415039  2312.97045898]
+Right foot:  [  266.88568115  -976.72937012  2295.44213867] and difference 213.274780273
+Accuracy hip_abduction_left  0.28 with key angles 
+   right knee angle  -  140.277552357
+   left groin angle  -  48.6330775273
+   left lateral hip angle  -  172.217231459
+Left foot:   [ -235.09950256 -1189.70678711  2309.14648438]
+Right foot:  [   36.26316452 -1116.66271973  2320.58447266] and difference 73.0440673828
+Accuracy hip_abduction_left  0.28 with key angles 
+   right knee angle  -  145.205545363
+   left groin angle  -  45.1231791881
+   left lateral hip angle  -  173.114312005
+Left foot:   [ -234.64723206 -1191.91125488  2307.09057617]
+Right foot:  [   45.00704956 -1118.45996094  2325.80444336] and difference 73.4512939453
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  149.514929189
+   left groin angle  -  42.1748076912
+   left lateral hip angle  -  173.364095453
+Left foot:   [ -234.50064087 -1199.00439453  2312.4921875 ]
+Right foot:  [   48.56155014 -1117.17211914  2325.48535156] and difference 81.8322753906
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  152.393724558
+   left groin angle  -  39.8105653184
+   left lateral hip angle  -  173.366970387
+Left foot:   [ -236.06144714 -1195.21069336  2315.51904297]
+Right foot:  [   42.89508438 -1118.38916016  2317.95751953] and difference 76.8215332031
+Accuracy hip_abduction_left  0.48 with key angles 
+   left knee angle  -  166.312645422
+   right knee angle  -  155.629191698
+   left groin angle  -  35.5728799615
+   left lateral hip angle  -  174.583805455
+Left foot:   [ -236.05210876 -1199.50854492  2320.2890625 ]
+Right foot:  [   30.7054081  -1123.40063477  2309.66674805] and difference 76.1079101562
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  158.932580527
+   left groin angle  -  30.9453172549
+   left lateral hip angle  -  173.718558053
+Left foot:   [ -236.94468689 -1194.40026855  2318.50341797]
+Right foot:  [   10.84277153 -1135.6270752   2307.92358398] and difference 58.7731933594
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  162.566162258
+   left groin angle  -  29.3056939111
+   left lateral hip angle  -  171.063046771
+Left foot:   [ -258.52484131 -1229.79443359  2279.87695312]
+Right foot:  [  -56.87184143 -1221.10205078  2272.10498047] and difference 8.6923828125
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  152.903604113
+   left groin angle  -  35.9222596748
+   left lateral hip angle  -  174.373524199
+Left foot:   [ -248.88020325 -1213.78869629  2287.22363281]
+Right foot:  [  -25.68735504 -1201.42175293  2276.86523438] and difference 12.3669433594
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  146.14897108
+   left groin angle  -  41.2658531848
+   left lateral hip angle  -  174.089516081
+Left foot:   [ -244.7052002  -1211.07165527  2288.92675781]
+Right foot:  [  -12.47459412 -1197.42626953  2274.7109375 ] and difference 13.6453857422
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  143.285317573
+   left groin angle  -  43.6931228499
+   left lateral hip angle  -  173.074327977
+Left foot:   [ -240.12380981 -1213.60571289  2288.93823242]
+Right foot:  [  -11.45882416 -1193.38916016  2277.27929688] and difference 20.2165527344
+Accuracy hip_abduction_left  0.28 with key angles 
+   right knee angle  -  137.635191861
+   left groin angle  -  50.7787707452
+   left lateral hip angle  -  170.675409
+Left foot:   [ -244.80006409 -1218.53857422  2292.44677734]
+Right foot:  [   12.22537231 -1176.71069336  2276.90112305] and difference 41.8278808594
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  165.664165608
+   left groin angle  -  53.7973691591
+   left lateral hip angle  -  171.692355195
+Left foot:   [ -245.99633789 -1215.85998535  2293.84912109]
+Right foot:  [  351.71209717  -962.20367432  2294.9675293 ] and difference 253.656311035
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  159.882476211
+   left groin angle  -  55.0631618982
+   left lateral hip angle  -  172.722224751
+Left foot:   [ -247.92675781 -1213.94921875  2294.86181641]
+Right foot:  [  338.53344727  -907.99487305  2326.4543457 ] and difference 305.954345703
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  160.111305956
+   left groin angle  -  55.9165438463
+   left lateral hip angle  -  174.484001518
+Left foot:   [ -250.05386353 -1209.73449707  2295.40795898]
+Right foot:  [  360.88647461  -907.47198486  2339.20263672] and difference 302.262512207
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  161.330565963
+   left groin angle  -  58.0459638744
+   left lateral hip angle  -  174.395746037
+Left foot:   [ -250.18081665 -1209.23632812  2294.00561523]
+Right foot:  [  386.47088623  -870.41107178  2342.09008789] and difference 338.825256348
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  165.747962814
+   left groin angle  -  60.1792530884
+   left lateral hip angle  -  175.061354937
+Left foot:   [ -249.47283936 -1204.19348145  2295.26464844]
+Right foot:  [  427.69384766  -877.95062256  2327.06689453] and difference 326.242858887
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  165.979582355
+   left groin angle  -  61.2943208568
+   left lateral hip angle  -  176.54940826
+Left foot:   [ -249.94030762 -1197.87792969  2296.36743164]
+Right foot:  [  431.57006836  -871.67529297  2324.10717773] and difference 326.202636719
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  166.427687094
+   left groin angle  -  63.006180309
+   left lateral hip angle  -  176.414927008
+Left foot:   [ -250.7063446  -1193.43591309  2297.71166992]
+Right foot:  [  438.21490479  -863.39221191  2313.03710938] and difference 330.043701172
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  168.394549176
+   left groin angle  -  64.2950676212
+   left lateral hip angle  -  175.521139746
+Left foot:   [ -249.54023743 -1196.44555664  2299.14599609]
+Right foot:  [  470.47045898  -801.65454102  2300.43920898] and difference 394.791015625
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  168.756381402
+   left groin angle  -  64.8914794527
+   left lateral hip angle  -  174.384829426
+Left foot:   [ -245.26371765 -1194.50476074  2302.51904297]
+Right foot:  [  476.39254761  -801.86920166  2300.36425781] and difference 392.635559082
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  168.730820562
+   left groin angle  -  65.4679727139
+   left lateral hip angle  -  174.740741765
+Left foot:   [ -245.26882935 -1193.65795898  2304.33862305]
+Right foot:  [  477.03375244  -794.92980957  2300.23779297] and difference 398.728149414
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  169.335683164
+   left groin angle  -  63.7508396765
+   left lateral hip angle  -  176.370177031
+Left foot:   [ -250.99435425 -1190.37109375  2301.12915039]
+Right foot:  [  480.82577515  -792.29937744  2296.71240234] and difference 398.071716309
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  169.329354599
+   left groin angle  -  64.3621839589
+   left lateral hip angle  -  176.621365446
+Left foot:   [ -251.74465942 -1192.02832031  2299.83251953]
+Right foot:  [  478.6138916   -788.61309814  2295.96850586] and difference 403.415222168
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  169.212589418
+   left groin angle  -  64.259435867
+   left lateral hip angle  -  177.008306833
+Left foot:   [ -244.27957153 -1193.13146973  2295.84228516]
+Right foot:  [  475.25772095  -777.44219971  2293.37475586] and difference 415.68927002
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  169.087946541
+   left groin angle  -  64.447171804
+   left lateral hip angle  -  177.032929747
+Left foot:   [ -241.84779358 -1194.22741699  2294.34033203]
+Right foot:  [  476.25750732  -781.82330322  2294.71337891] and difference 412.40411377
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  168.137774028
+   left groin angle  -  64.8287200292
+   left lateral hip angle  -  176.805000119
+Left foot:   [ -241.78335571 -1194.02404785  2295.90087891]
+Right foot:  [  478.77886963  -794.7331543   2304.87963867] and difference 399.290893555
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  167.312102319
+   left groin angle  -  64.5256542532
+   left lateral hip angle  -  176.90274218
+Left foot:   [ -241.5262146  -1193.48779297  2295.56298828]
+Right foot:  [  470.48779297  -822.65209961  2311.67114258] and difference 370.835693359
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  163.80432297
+   left groin angle  -  63.8424689727
+   left lateral hip angle  -  176.901274698
+Left foot:   [ -239.87573242 -1194.33166504  2294.29345703]
+Right foot:  [  445.70254517  -857.05047607  2324.44384766] and difference 337.281188965
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  160.804581655
+   left groin angle  -  61.2452337197
+   left lateral hip angle  -  177.205438917
+Left foot:   [ -241.0605011  -1194.67175293  2296.8737793 ]
+Right foot:  [  412.48352051  -899.46209717  2319.73339844] and difference 295.209655762
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  157.645736649
+   left groin angle  -  59.2536679493
+   left lateral hip angle  -  177.058156697
+Left foot:   [ -242.6859436  -1195.28051758  2296.97167969]
+Right foot:  [  368.29190063  -908.64581299  2317.69458008] and difference 286.63470459
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  155.157096501
+   left groin angle  -  56.6833882716
+   left lateral hip angle  -  177.027136841
+Left foot:   [ -242.76403809 -1195.52392578  2297.36914062]
+Right foot:  [  336.63946533  -939.11547852  2328.44067383] and difference 256.408447266
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  158.559001836
+   left groin angle  -  51.9965380926
+   left lateral hip angle  -  177.03170285
+Left foot:   [ -241.28030396 -1202.78503418  2298.53198242]
+Right foot:  [  229.40237427  -939.18347168  2249.44775391] and difference 263.6015625
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  162.866833238
+   left groin angle  -  48.3137001438
+   left lateral hip angle  -  176.787701929
+Left foot:   [ -240.38935852 -1206.09350586  2296.37768555]
+Right foot:  [  206.40042114  -940.48950195  2241.36645508] and difference 265.604003906
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  152.879430914
+   left groin angle  -  35.7971270115
+   left lateral hip angle  -  174.3747193
+Left foot:   [ -222.48580933 -1224.81774902  2274.68017578]
+Right foot:  [   -7.69639969 -1232.05895996  2288.48950195] and difference 7.2412109375
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  151.143794948
+   left groin angle  -  37.122625932
+   left lateral hip angle  -  175.0158172
+Left foot:   [ -224.75665283 -1223.2520752   2277.65234375]
+Right foot:  [    2.66386414 -1224.41113281  2295.48193359] and difference 1.15905761719
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  146.156897025
+   left groin angle  -  41.3036332388
+   left lateral hip angle  -  174.158364308
+Left foot:   [ -222.79602051 -1233.83764648  2283.78466797]
+Right foot:  [   12.75413132 -1222.73205566  2303.85449219] and difference 11.1055908203
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  144.296882052
+   left groin angle  -  42.9812017871
+   left lateral hip angle  -  174.816200924
+Left foot:   [ -215.94241333 -1236.56152344  2285.17041016]
+Right foot:  [   27.25352478 -1189.35449219  2299.37792969] and difference 47.20703125
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  160.892278776
+   left groin angle  -  46.6945964491
+   left lateral hip angle  -  174.820426259
+Left foot:   [ -214.94142151 -1232.14331055  2285.95922852]
+Right foot:  [  328.04428101  -957.22375488  2345.80444336] and difference 274.919555664
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  160.47114312
+   left groin angle  -  49.4579159284
+   left lateral hip angle  -  174.931567162
+Left foot:   [ -214.65484619 -1230.41601562  2287.8815918 ]
+Right foot:  [  339.35583496  -946.70922852  2356.68725586] and difference 283.706787109
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  159.377771519
+   left groin angle  -  52.2236905035
+   left lateral hip angle  -  174.661517042
+Left foot:   [ -214.70936584 -1228.40258789  2291.18310547]
+Right foot:  [  342.1930542   -938.46691895  2366.45483398] and difference 289.935668945
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  153.575007106
+   left groin angle  -  50.949410321
+   left lateral hip angle  -  177.290225449
+Left foot:   [ -221.54907227 -1230.63549805  2291.39477539]
+Right foot:  [  367.80541992  -899.02386475  2404.35839844] and difference 331.611633301
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  159.513737828
+   left groin angle  -  54.1713738271
+   left lateral hip angle  -  177.755074964
+Left foot:   [ -222.36526489 -1228.72570801  2294.41601562]
+Right foot:  [  407.57098389  -913.82312012  2403.83154297] and difference 314.902587891
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  163.650052647
+   left groin angle  -  57.1236357217
+   left lateral hip angle  -  177.175029093
+Left foot:   [ -221.7252655  -1228.41064453  2293.03393555]
+Right foot:  [  428.55172729  -915.1461792   2378.25415039] and difference 313.264465332
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  167.83893391
+   left groin angle  -  58.2397825946
+   left lateral hip angle  -  176.858718205
+Left foot:   [ -223.313797   -1223.51745605  2291.0324707 ]
+Right foot:  [  452.98257446  -863.11016846  2338.49853516] and difference 360.407287598
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  167.885293385
+   left groin angle  -  60.2364737538
+   left lateral hip angle  -  176.683408367
+Left foot:   [ -220.03843689 -1219.7520752   2291.16333008]
+Right foot:  [  455.67089844  -869.80780029  2344.07226562] and difference 349.944274902
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  168.073038085
+   left groin angle  -  60.9414184105
+   left lateral hip angle  -  177.083486805
+Left foot:   [ -220.3420105  -1217.33898926  2291.15307617]
+Right foot:  [  457.65548706  -832.96569824  2337.78833008] and difference 384.373291016
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  168.527444228
+   left groin angle  -  61.2144010259
+   left lateral hip angle  -  176.926644937
+Left foot:   [ -220.3127594  -1218.92797852  2289.92724609]
+Right foot:  [  457.0758667   -814.85357666  2330.37915039] and difference 404.074401855
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  169.76640215
+   left groin angle  -  61.4629396435
+   left lateral hip angle  -  177.375649923
+Left foot:   [ -225.93862915 -1217.47521973  2290.3034668 ]
+Right foot:  [  459.2946167   -811.3505249   2325.15234375] and difference 406.124694824
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  170.670401876
+   left groin angle  -  62.2710199965
+   left lateral hip angle  -  176.922246854
+Left foot:   [ -226.82130432 -1218.18774414  2285.59960938]
+Right foot:  [  460.94140625  -809.32427979  2323.53100586] and difference 408.863464355
+Accuracy hip_abduction_left  0.28 with key angles 
+   right knee angle  -  171.313290998
+   left groin angle  -  62.7628672127
+   left lateral hip angle  -  176.082269704
+Left foot:   [ -222.40867615 -1217.47192383  2282.09887695]
+Right foot:  [  459.60494995  -808.22998047  2328.13378906] and difference 409.241943359
+Accuracy hip_abduction_left  0.28 with key angles 
+   right knee angle  -  171.19001496
+   left groin angle  -  62.7947957781
+   left lateral hip angle  -  175.792044164
+Left foot:   [ -220.79508972 -1215.65209961  2285.66040039]
+Right foot:  [  455.88793945  -807.89508057  2329.81567383] and difference 407.757019043
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  170.782770791
+   left groin angle  -  62.8840752912
+   left lateral hip angle  -  176.41258775
+Left foot:   [ -216.40116882 -1215.06567383  2290.61328125]
+Right foot:  [  459.54470825  -831.39294434  2323.96337891] and difference 383.672729492
+Accuracy hip_abduction_left  0.28 with key angles 
+   right knee angle  -  171.455536119
+   left groin angle  -  60.0096043896
+   left lateral hip angle  -  176.315254339
+Left foot:   [ -212.50437927 -1217.86621094  2284.68603516]
+Right foot:  [  427.95343018  -838.03594971  2307.67797852] and difference 379.83026123
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  166.956930917
+   left groin angle  -  57.6902914946
+   left lateral hip angle  -  176.11803883
+Left foot:   [ -212.19000244 -1215.78955078  2286.35302734]
+Right foot:  [  403.02972412  -875.35217285  2319.48217773] and difference 340.43737793
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  168.214999725
+   left groin angle  -  55.7929737035
+   left lateral hip angle  -  175.972601896
+Left foot:   [ -209.31219482 -1249.77270508  2294.87231445]
+Right foot:  [  393.01605225  -912.52752686  2293.59448242] and difference 337.245178223
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  167.618929047
+   left groin angle  -  54.3728906407
+   left lateral hip angle  -  175.227587918
+Left foot:   [ -208.89950562 -1251.52270508  2295.16259766]
+Right foot:  [  392.30944824  -950.62261963  2291.22167969] and difference 300.900085449
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  169.715199697
+   left groin angle  -  50.2144379181
+   left lateral hip angle  -  174.516300154
+Left foot:   [ -208.31704712 -1250.07446289  2293.53271484]
+Right foot:  [  391.62475586  -954.24255371  2291.00170898] and difference 295.83190918
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  167.731854017
+   left groin angle  -  48.2966350527
+   left lateral hip angle  -  175.103761379
+Left foot:   [ -208.1456604  -1249.42602539  2293.19726562]
+Right foot:  [  372.27310181  -958.76898193  2293.83886719] and difference 290.657043457
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  162.15354366
+   left groin angle  -  45.5970968632
+   left lateral hip angle  -  174.326515766
+Left foot:   [ -210.1915741  -1249.57397461  2293.31298828]
+Right foot:  [  360.86395264  -964.17224121  2294.17114258] and difference 285.401733398
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  160.912921807
+   left groin angle  -  43.7018190225
+   left lateral hip angle  -  174.643084002
+Left foot:   [ -210.70675659 -1252.0579834   2283.82226562]
+Right foot:  [  335.98931885  -971.4821167   2295.21948242] and difference 280.575866699
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  162.136007376
+   left groin angle  -  42.2906893327
+   left lateral hip angle  -  175.175127634
+Left foot:   [ -210.20085144 -1252.43041992  2282.0300293 ]
+Right foot:  [  307.54541016  -989.04595947  2296.68237305] and difference 263.384460449
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  163.014353345
+   left groin angle  -  39.8144613687
+   left lateral hip angle  -  175.474802885
+Left foot:   [ -210.64120483 -1257.4654541   2279.43603516]
+Right foot:  [  275.0090332  -1005.1385498   2299.60766602] and difference 252.326904297
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  158.467283695
+   left groin angle  -  36.4256730352
+   left lateral hip angle  -  174.905448929
+Left foot:   [ -209.63951111 -1259.97631836  2280.56982422]
+Right foot:  [  243.87016296 -1023.61462402  2304.81640625] and difference 236.361694336
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  157.977664087
+   left groin angle  -  35.2198886788
+   left lateral hip angle  -  175.0828734
+Left foot:   [ -210.08000183 -1260.72375488  2283.18237305]
+Right foot:  [  218.85501099 -1042.16625977  2307.97949219] and difference 218.557495117
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  146.36004957
+   left groin angle  -  41.4845299325
+   left lateral hip angle  -  174.681547177
+Left foot:   [ -207.79425049 -1255.32739258  2278.17382812]
+Right foot:  [   -5.20050049 -1213.56408691  2257.34521484] and difference 41.7633056641
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  142.345773406
+   left groin angle  -  42.6433745369
+   left lateral hip angle  -  174.029494957
+Left foot:   [ -218.58403015 -1251.29870605  2281.70166016]
+Right foot:  [   -8.86360931 -1204.29321289  2262.27441406] and difference 47.0054931641
+Accuracy hip_abduction_left  0.28 with key angles 
+   right knee angle  -  140.510099094
+   left groin angle  -  47.6424788528
+   left lateral hip angle  -  174.538745229
+Left foot:   [ -223.03015137 -1251.13623047  2286.08276367]
+Right foot:  [   35.23527527 -1176.58361816  2268.67114258] and difference 74.5526123047
+Accuracy hip_abduction_left  0.28 with key angles 
+   right knee angle  -  172.566278922
+   left groin angle  -  51.2266818323
+   left lateral hip angle  -  174.477496509
+Left foot:   [ -227.10542297 -1250.97155762  2287.95996094]
+Right foot:  [  291.74951172  -892.80560303  2264.2644043 ] and difference 358.16595459
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  163.430754245
+   left groin angle  -  54.6897555264
+   left lateral hip angle  -  171.50753211
+Left foot:   [ -230.71859741 -1249.97070312  2290.92871094]
+Right foot:  [  361.16326904  -869.8347168   2319.71264648] and difference 380.135986328
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  166.630893181
+   left groin angle  -  59.0796337662
+   left lateral hip angle  -  172.011652759
+Left foot:   [ -233.23410034 -1251.53820801  2291.12670898]
+Right foot:  [  408.02532959  -877.69287109  2330.95556641] and difference 373.845336914
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  168.255886142
+   left groin angle  -  61.3876319146
+   left lateral hip angle  -  172.623603269
+Left foot:   [ -229.78970337 -1251.29772949  2294.37402344]
+Right foot:  [  407.77001953  -872.1751709   2331.98388672] and difference 379.122558594
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  167.351946888
+   left groin angle  -  62.6886468868
+   left lateral hip angle  -  173.226039385
+Left foot:   [ -227.76722717 -1252.6619873   2292.67675781]
+Right foot:  [  432.84771729  -839.01940918  2347.92211914] and difference 413.642578125
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  168.725930297
+   left groin angle  -  67.1880321527
+   left lateral hip angle  -  168.588481636
+Left foot:   [ -233.07080078 -1248.14990234  2293.23828125]
+Right foot:  [  441.5579834   -813.24353027  2339.28369141] and difference 434.90637207
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  171.021176418
+   left groin angle  -  67.2645508191
+   left lateral hip angle  -  169.517336767
+Left foot:   [ -232.03726196 -1247.34179688  2294.23510742]
+Right foot:  [  442.5874939   -813.20751953  2327.49462891] and difference 434.134277344
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  173.031333774
+   left groin angle  -  68.8103157711
+   left lateral hip angle  -  170.39409529
+Left foot:   [ -236.65245056 -1247.42724609  2291.20385742]
+Right foot:  [  472.47540283  -814.46520996  2330.02026367] and difference 432.962036133
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  173.073754387
+   left groin angle  -  69.6999716408
+   left lateral hip angle  -  171.309600828
+Left foot:   [ -236.46589661 -1246.18688965  2297.43457031]
+Right foot:  [  483.17462158  -811.05029297  2336.04443359] and difference 435.13659668
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  172.924193222
+   left groin angle  -  70.0772380703
+   left lateral hip angle  -  171.385785671
+Left foot:   [ -237.97659302 -1245.46032715  2305.22363281]
+Right foot:  [  487.71987915  -807.2635498   2334.99804688] and difference 438.196777344
+Accuracy hip_abduction_left  0.0 with key angles 
+   right knee angle  -  171.759118187
+   left groin angle  -  70.1202670543
+   left lateral hip angle  -  171.474604447
+Left foot:   [ -238.54216003 -1244.6361084   2306.69482422]
+Right foot:  [  485.82629395  -807.00366211  2342.83789062] and difference 437.632446289
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  170.095488096
+   left groin angle  -  68.7617634577
+   left lateral hip angle  -  172.293919059
+Left foot:   [ -235.68530273 -1241.28125     2308.86938477]
+Right foot:  [  479.17752075  -823.98590088  2352.35644531] and difference 417.295349121
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  168.011476992
+   left groin angle  -  67.8070040813
+   left lateral hip angle  -  174.562540011
+Left foot:   [ -237.24147034 -1239.6472168   2314.39331055]
+Right foot:  [  448.19787598  -839.56994629  2347.24633789] and difference 400.077270508
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  167.033182526
+   left groin angle  -  67.0681297104
+   left lateral hip angle  -  174.087663446
+Left foot:   [ -238.54037476 -1239.76977539  2318.03173828]
+Right foot:  [  432.67443848  -846.08959961  2345.76953125] and difference 393.680175781
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  167.64888782
+   left groin angle  -  64.670094081
+   left lateral hip angle  -  174.45303438
+Left foot:   [ -240.19602966 -1238.90356445  2324.08300781]
+Right foot:  [  427.27716064  -854.38409424  2339.09448242] and difference 384.519470215
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  165.791113182
+   left groin angle  -  63.2912887445
+   left lateral hip angle  -  173.892484413
+Left foot:   [ -238.16519165 -1239.09790039  2324.00292969]
+Right foot:  [  433.89959717  -877.10705566  2352.88647461] and difference 361.990844727
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  163.135128016
+   left groin angle  -  60.7666532666
+   left lateral hip angle  -  173.463796002
+Left foot:   [ -235.69816589 -1239.46972656  2324.90087891]
+Right foot:  [  402.5916748   -905.35058594  2354.73242188] and difference 334.119140625
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  161.847992434
+   left groin angle  -  58.1681132092
+   left lateral hip angle  -  173.814328545
+Left foot:   [ -233.21679688 -1240.58935547  2327.47631836]
+Right foot:  [  354.23596191  -928.33410645  2355.73461914] and difference 312.255249023
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  161.630435265
+   left groin angle  -  52.2136798455
+   left lateral hip angle  -  174.400107394
+Left foot:   [ -230.59783936 -1242.68933105  2326.80224609]
+Right foot:  [  302.51315308  -938.61706543  2361.0793457 ] and difference 304.072265625
+Accuracy hip_abduction_left  0.52 with key angles 
+   right knee angle  -  155.857422929
+   left groin angle  -  50.4951092863
+   left lateral hip angle  -  173.913551373
+Left foot:   [ -229.20480347 -1245.54882812  2329.06494141]
+Right foot:  [  206.84562683  -998.80053711  2349.94580078] and difference 246.748291016
+Accuracy hip_abduction_left  0.24 with key angles 
+   right knee angle  -  162.933645684
+   left groin angle  -  44.9247840136
+   left lateral hip angle  -  174.77175773
+Left foot:   [ -227.40379333 -1245.06359863  2331.61962891]
+Right foot:  [  232.63569641  -985.36755371  2323.06738281] and difference 259.696044922

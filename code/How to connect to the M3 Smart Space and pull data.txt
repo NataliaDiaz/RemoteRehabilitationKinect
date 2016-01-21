@@ -1,0 +1,59 @@
+System.Console.WriteLine("--- Joining Smart Space X " + M3.join());
+System.Console.WriteLine("--- Inserting OWL ontology " + M3.insertOWL(Path.Combine(Environment.CurrentDirectory, @"data\AHA.owl"))); 
+// Only works from WebSIBExplorer
+
+string subscriptionID = M3.subscribeSPARQL(subQuery3, kpic_SIBEventHandlerSPARQL, subscripResults);  // HOW TO CALL IT?
+
+// Query
+string query1 = "SELECT ?calendar1 ?user0  WHERE { ?user0 a " + pr + "User .  ?user0 " + pr + "hasName \"Natalia\"^^xsd:string. ?user0 " + pr + "hasCalendar ?calendar1 .}";
+string query2= "SELECT * WHERE {?s ?p ?o.}";
+
+SPARQLResults queryResults = new SPARQLResults();
+queryResults = M3.getSPARQLResults(query1);
+
+System.Console.WriteLine("--- Querying SPARQL " + queryResults);
+System.Console.WriteLine("--- Querying SPARQL " + M3.getSPARQLResults(query2)); //querySPARQL(query2));
+string results = M3.querySPARQL(query2);
+
+
+// Inserting
+SitStandExerciseSession session = new SitStandExerciseSession(("SitStandSession" + username + DateTime.Now.ToString()), username, DateTime.Now, sessionDuration, nSits, avgSecondsToSit, avgSecondsToStand);
+
+(..)
+
+string[] cuatriple = new string[4] { pr + session.SessionName, "a", pr + "SitStandSession", "uri" };
+string[] cuatriple2 = new string[4] { pr + session.Username, pr + "executesSitStandSession", pr + session.SessionName, "uri" };
+string[] cuatriple3 = new string[4] { pr + session.SessionName, pr + "hasStartDateTime", DateTimeToOWLDateTimeStr(session.StartDateTime), "literal" };
+string[] cuatriple4 = new string[4] { pr + session.SessionName, pr + "hasDuration", session.Duration.ToString(), "literal" };
+string[] cuatriple5 = new string[4] { pr + session.SessionName, pr + "consistsOfNSits", session.NSits.ToString(), "literal" };
+string[] cuatriple6 = new string[4] { pr + session.SessionName, pr + "tookAvgSecondsToSit", session.AvgSecondsToSit.ToString(), "literal" };
+string[] cuatriple7 = new string[4] { pr + session.SessionName, pr + "tookAvgSecondsToStand", session.AvgSecondsToStand.ToString(), "literal" };
+
+ArrayList triple = new ArrayList();
+triple.Add(cuatriple);
+ArrayList triple2 = new ArrayList();
+triple2.Add(cuatriple2);
+ArrayList triple3 = new ArrayList();
+triple3.Add(cuatriple3);
+ArrayList triple4 = new ArrayList();
+triple4.Add(cuatriple4);
+ArrayList triple5 = new ArrayList();
+triple5.Add(cuatriple5);
+ArrayList triple6 = new ArrayList();
+triple6.Add(cuatriple6);
+ArrayList triple7 = new ArrayList();
+triple7.Add(cuatriple7);
+System.Console.WriteLine("--- Inserting " + M3.insert(triple));
+System.Console.WriteLine("--- Inserting " + M3.insert(triple2));
+System.Console.WriteLine("--- Inserting " + M3.insert(triple3));
+System.Console.WriteLine("--- Inserting " + M3.insert(triple4));
+System.Console.WriteLine("--- Inserting " + M3.insert(triple5));
+System.Console.WriteLine("--- Inserting " + M3.insert(triple6));
+System.Console.WriteLine("--- Inserting " + M3.insert(triple7));
+
+
+// Unsubscribe
+//System.Console.WriteLine("--- Unsubscribing " + M3.unsubscribe(subscriptionID));
+
+// Leave
+System.Console.WriteLine("--- Leaving the Smart Space X " + M3.leave()); //when cleaning (closing) the program

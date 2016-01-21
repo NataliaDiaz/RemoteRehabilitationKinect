@@ -1,0 +1,35 @@
+Examples of queries to retrieve information about SitStandSessionExercises.
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX aha: <http://www.semanticweb.org/ontologies/2013/7/17/AHA.owl#>
+
+SELECT ?s ?p ?o
+    WHERE { ?s ?p ?o }
+    
+    
+SELECT *
+    WHERE { ?s aha:tookAvgSecondsToSit ?o }
+
+SELECT *
+    WHERE { ?s aha:tookAvgSecondsToStand ?o }
+    
+SELECT *
+    WHERE { ?s aha:executesSitStandSession ?o. }
+        
+SELECT *
+    WHERE { ?s aha:hasDuration ?o }
+        
+SELECT *
+    WHERE { ?s aha:hasStartDateTime ?o }
+    
+SELECT *
+    WHERE { ?s ?p ?o. }
+        
+SELECT *  
+WHERE { ?session a aha:SitStandSession .  ?session ?hasProperty ?property .}   
+        
+        
+        

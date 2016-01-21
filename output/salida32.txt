@@ -1,0 +1,37 @@
+0/4 Starting to detect users. Press Ctrl-C to exit.
+1/4 User 1 detected. Looking for pose...
+2/4 Detected pose Psi on user 1. Requesting calibration...
+3/4 Calibration started for user 1.
+4/4 User 1 calibrated successfully! Starting to track.
+
+
+************** DETECTED: Standing.  Accuracy:  0.75
+
+
+************** DETECTED: Left Hip Abduction.  Accuracy:  1.0
+
+
+************** DETECTED: Standing.  Accuracy:  1.0
+
+
+************** DETECTED: Left Hip Abduction.  Accuracy:  0.72
+
+
+************** DETECTED: Standing.  Accuracy:  1.0
+
+
+************** DETECTED: Left Hip Abduction.  Accuracy:  0.72
+
+
+************** DETECTED: Standing.  Accuracy:  1.0
+
+
+************** DETECTED: Left Hip Abduction.  Accuracy:  1.0
+
+
+************** DETECTED: Standing.  Accuracy:  1.0
+
+
+************** DETECTED: Left Hip Abduction.  Accuracy:  1.0
+
+

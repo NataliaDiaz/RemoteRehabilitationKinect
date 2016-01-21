@@ -1,0 +1,15 @@
+0/4 Starting to detect users. Press Ctrl-C to exit.
+1/4 User 1 detected. Looking for pose...
+2/4 Detected pose Psi on user 1. Requesting calibration...
+3/4 Calibration started for user 1.
+4/4 User 1 calibrated successfully! Starting to track.
+************** DETECTED: Left Hip Abduction.  Accuracy: 0.52. Duration: 0.31. Angles
+   left knee angle  -  167.172361237
+   right knee angle  -  150.8671923
+   left groin angle  -  58.0145176101
+   left lateral hip angle  -  173.706846094
+************** DETECTED: Left Hip Abduction.  Accuracy: 0.48. Duration: 0.32. Angles
+   left knee angle  -  162.441962918
+   right knee angle  -  158.373714322
+   left groin angle  -  66.8252691484
+   left lateral hip angle  -  175.513730568
